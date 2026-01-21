@@ -1,5 +1,5 @@
 p1 = input("Nereden nereye gitmek istersiniz?")
-if p1.lower() == "Arnavutköy kiptaş konutlarından Abbas medeni sokak no 10":
+if p1.lower() == "arnavutköy kiptaş konutlarından abbas medeni sokak no 10":
     print("eski edirne asfaltı cd. istikametine doğru sağa dönün")
     print("200m sonra eski edirne asfaltı cd. istikametine doğru sağdan gidin")
     print("300m sonra u dönüşü yapın")
